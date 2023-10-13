@@ -1,2 +1,2 @@
 # greencity
-implementing system of two Microservices communication via Kafka message broker with Golang
+implementing system of two Microservices communicating via Kafka message broker with Golang
